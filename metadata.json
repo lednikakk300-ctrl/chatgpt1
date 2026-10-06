@@ -1,0 +1,8 @@
+{
+  "name": "ChatGPT O'zbekcha - Aqlli AI Yordamchi",
+  "description": "ChatGPT uslubidagi 1:1 sun'iy intellekt chatboti. O'zbek tilida mukammal muloqot, ovozli kiritish (mikrofon), TTS tinglash va qulay interfeys.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
